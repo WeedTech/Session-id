@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY WeedTech</h1>
+<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY Weed~Tech</h1>
 
 ---
 
@@ -169,8 +169,8 @@ jobs:
 
 ```
 
-## ❤️ Credits
-[![GitHub - your github namee](https://img.shields.io/badge/GitHub-Weed-Tech-181717?style=for-the-badge&logo=github)](https://github.com/WeedTech)
+## 🧡 Credits
+[![GitHub - WeedTech](https://img.shields.io/badge/GitHub-Weed-Tech-181717?style=for-the-badge&logo=github)](https://github.com/WeedTech)
 
 ---
 [![ THANKS TO Weed-Tech💻💣](https://img.shields.io/badge/GitHub-Weed-Tech-181717?style=for-the-badge&logo=github)](https://github.com/WeedTech)
