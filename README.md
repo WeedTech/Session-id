@@ -173,4 +173,4 @@ jobs:
 [![GitHub - your github namee](https://img.shields.io/badge/GitHub-Weed-Tech-181717?style=for-the-badge&logo=github)](https://github.com/WeedTech)
 
 ---
-[![ THANKS TO WEED-TECH](https://img.shields.io/badge/GitHub-Weed-Tech-181717?style=for-the-badge&logo=github)](https://github.com/WeedTech)
+[![ THANKS TO Weed-Tech💻💣](https://img.shields.io/badge/GitHub-Weed-Tech-181717?style=for-the-badge&logo=github)](https://github.com/WeedTech)
