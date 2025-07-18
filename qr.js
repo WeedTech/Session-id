@@ -81,7 +81,7 @@ var randomItem = selectRandomItem(items);
 
 > Do not share your session id with your gf .
 
- *Thanks for using your bot name * 
+ *Thanks for using Fus-e-MD* 
 
 > Join WhatsApp Channel :- ⤵️
  
@@ -89,7 +89,7 @@ https://whatsapp.com/channel/0029Vb2J9C91dAw7vxA75y2V
 
 Dont forget to fork the repo ⬇️
 
-https://github.com/WeedTech/FUS-E-MD 
+https://github.com/WeedTech/Fus-e-MD 
 
 > *© Powered BY WeedTech*`; 
                         await sock.sendMessage(sock.user.id, {
