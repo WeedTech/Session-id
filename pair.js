@@ -58,7 +58,7 @@ await sock.sendMessage(sock.user.id, {
                     contextInfo: {
                         externalAdReply: {
                             title: "ᴘᴇᴀᴄᴇ ᴍᴅ💚",
-                            thumbnailUrl: "https://files.catbox.moe/s2xj7v.jpg",
+                            thumbnailUrl: "https://files.catbox.moe/er8ksj",
                             sourceUrl: "https://github.com/Peacemaker-cyber/PEACE-MD",
                             mediaType: 1,
                             renderLargerThumbnail: true
