@@ -59,7 +59,7 @@ await sock.sendMessage(sock.user.id, {
                         externalAdReply: {
                             title: "ᴘᴇᴀᴄᴇ ᴍᴅ💚",
                             thumbnailUrl: "https://files.catbox.moe/er8ksj",
-                            sourceUrl: "https://github.com/Peacemaker-cyber/PEACE-MD",
+                            sourceUrl: "https://github.com/WeedTech/Fus-e-MD",
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
