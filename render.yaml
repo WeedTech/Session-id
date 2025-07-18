@@ -4,6 +4,6 @@ services:
     env: docker
     plan: free
     branch: main
-    repo: https://github.com/WeedTech/FUS-E-MD
+    repo: https://github.com/WeedTech/Fus-e-MD
     dockerfilePath: ./Dockerfile
     autoDeploy: true
