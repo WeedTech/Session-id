@@ -50,8 +50,8 @@ async function GIFTED_MD_PAIR_CODE() {
 
                 let desc = `🟢  *ʙᴏᴛ sᴜᴄᴄᴇssғᴜʟʟʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ 🟢!*
                 
-╭━━ 『 ᴘᴇᴀᴄᴇ-ᴍᴅ ɪɴɪᴛɪᴀʟɪᴢᴇᴅ 』\n┃  ⚡ ʙᴏᴛ ɴᴀᴍᴇ: ᴘᴇᴀᴄᴇᴍᴅ \n┃  👑 ᴏᴡɴᴇʀ: ᴘᴇᴀᴄᴇᴍᴀᴋᴇʀ \n┃  ⚙️ ᴍᴏᴅᴇ: *private*\n┃  🎯 ᴘʀᴇꜰɪx: *.*\n┃  ⏳ ᴛɪᴍᴇ: *${kenyaTime}*\n┃  📆 ᴅᴀᴛᴇ: ${kenyaDate}\n╰━━━━━━━━━━━━━━━━━━━╯\n\n⚠️ ʀᴇᴘᴏʀᴛ ᴀɴʏ ɢʟɪᴛᴄʜᴇꜱ ᴅɪʀᴇᴄᴛʟʏ ᴛᴏ ᴛʜᴇ ᴏᴡɴᴇʀ.\n\n╭──────────────────★\n│ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘᴇᴀᴄᴇ ᴍᴅ\n╰──────────────────★\n📢 𝐂ʜᴀɴɴᴇʟ: Click Here(https://whatsapp.com/channel/0029Vb2J9C91dAw7vxA75y2V) }\n🛠️ 𝐃ᴇᴘʟᴏʏ 𝐘ᴏᴜʀ 𝐁ᴏᴛ: GitHub Repo(https://github.com/WeedTech/FUS-E-MD)\n
-🔋  𝐒ʏꜱᴛᴇᴍ 𝐒ᴛᴀᴛᴜꜱ: ▓▓▓▓▓▓▓▓▓▓ 100% 🧐  𝐀.I 𝐑ᴇᴀᴅʏ • 𝐌ᴜʟᴛɪ 𝐃ᴇᴠɪᴄᴇ • 𝐒ᴛᴀʙʟᴇ 𝐑ᴇʟᴇᴀꜱᴇ\n`;
+╭━━ 『 ғᴜsᴇ́ᴇ-ᴍᴅ ɪɴɪᴛɪᴀʟɪᴢᴇᴅ 』\n┃  ⚡ ʙᴏᴛ ɴᴀᴍᴇ: ғᴜsᴇ́ᴇ-ᴍᴅ \n┃  👑 ᴏᴡɴᴇʀ: 𝐖𝐞𝐞𝐝 𝐓𝐞𝐜𝐡 \n┃  ⚙️ ᴍᴏᴅᴇ: *private*\n┃  🎯 ᴘʀᴇꜰɪx: *.*\n┃  ⏳ ᴛɪᴍᴇ: *${kenyaTime}*\n┃  📆 ᴅᴀᴛᴇ: ${kenyaDate}\n╰━━━━━━━━━━━━━━━━━━━╯\n\n⚠️ ʀᴇᴘᴏʀᴛ ᴀɴʏ ɢʟɪᴛᴄʜᴇꜱ ᴅɪʀᴇᴄᴛʟʏ ᴛᴏ ᴛʜᴇ ᴏᴡɴᴇʀ.\n\n╭──────────────────★\n│ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴡᴇᴇᴅ ᴛᴇᴄɢ ᴍᴅ\n╰──────────────────★\n📢 𝐂ʜᴀɴɴᴇʟ: Click Here(https://whatsapp.com/channel/0029Vb2J9C91dAw7vxA75y2V) }\n🛠️ 𝐃ᴇᴘʟᴏʏ 𝐘ᴏᴜʀ 𝐁ᴏᴛ: GitHub Repo(https://github.com/WeedTech/FUS-E-MD)\n
+🔋  𝐒ʏꜱᴛᴇᴍ 𝐒ᴛᴀᴛᴜꜱ: ғᴜsᴇ́ᴇ-ᴍᴅ 100% 🧐  𝐀.I 𝐑ᴇᴀᴅʏ • 𝐌ᴜʟᴛɪ 𝐃ᴇᴠɪᴄᴇ • 𝐒ᴛᴀʙʟᴇ 𝐑ᴇʟᴇᴀꜱᴇ\n`;
 
 await sock.sendMessage(sock.user.id, {
                     text: desc,
