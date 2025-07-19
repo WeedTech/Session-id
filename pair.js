@@ -41,7 +41,7 @@ async function GIFTED_MD_PAIR_CODE() {
                 let rf = `./temp/${id}/creds.json`;
                 const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                 const string_session = mega_url.replace('https://mega.nz/file/', '');
-                let md = "Fusée~" + string_session;
+                let md = "Fus-e-MD" + string_session;
 
                 let code = await sock.sendMessage(sock.user.id, { text: md });
 
