@@ -57,7 +57,7 @@ await sock.sendMessage(sock.user.id, {
                     text: desc,
                     contextInfo: {
                         externalAdReply: {
-                            title: "ᴘᴇᴀᴄᴇ ᴍᴅ💚",
+                            title: "𝑭𝑼𝑺𝑬́𝑬 𝑴𝑫💚",
                             thumbnailUrl: "https://files.catbox.moe/er8ksj",
                             sourceUrl: "https://github.com/WeedTech/Fus-e-MD",
                             mediaType: 1,
